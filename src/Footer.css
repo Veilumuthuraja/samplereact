@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.background{
+    background-color: rgb(16, 16, 39);
+}
+.main_flex{
+    display: flex;
+    width: 85%;
+    margin: 25px auto 0;
+}
+.flex_child{
+    flex-basis: 20%;
+    margin-block: 70px;
+}
+.flex_child ul li{
+     list-style-type: none;
+     margin: 7px;
+     color: white;
+
+}
+.flex_child p{
+    margin-block: 16px;
+}
+.flex_child img{
+    margin-inline: 5px;
+}
+.flex_child ul li:hover{
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+.flex_child img:hover{
+    transform: scale(1.08);
+    
+}

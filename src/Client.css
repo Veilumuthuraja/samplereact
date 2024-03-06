@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.head_flex_client{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.client_img{
+    display: flex;
+    margin: 15px 10px;
+}
+.child_flex_client h6{
+    color: gray;
+    margin-block: 5px ;
+}
+.child_flex_client p{
+    color: gray;
+}
+.child_flex_client:hover{
+    transform: scale(1.01);
+}

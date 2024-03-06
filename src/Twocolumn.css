@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.bg_color{
+    background-color: blue;
+}
+.container{
+    width: 85%;
+    margin: 0 auto;     
+    display: flex;
+    justify-content: space-evenly;
+}
+.two_flex{
+     margin-top: 90px;
+}
+.num_flex{
+    display: flex;
+    justify-content: space-around;
+}
+.two_flex h6{
+      color: yellow;
+      font-size: 14px;
+      font-weight: 400;
+      margin: 10px 20px;
+}
+
+.two_flex h1,p,h5{
+    color: white;
+
+}
+.two_flex h1{
+    font-size: 70px;
+    font-weight: 500;
+    margin-bottom: 19px;
+}
+.two_flex p{
+    margin-bottom: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+

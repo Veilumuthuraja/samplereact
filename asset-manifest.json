@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/http//veilumuthuraja.github.io/samplereact/static/css/main.0ae37724.css",
+    "main.js": "/http//veilumuthuraja.github.io/samplereact/static/js/main.f0555a56.js",
+    "static/js/453.f07efbfc.chunk.js": "/http//veilumuthuraja.github.io/samplereact/static/js/453.f07efbfc.chunk.js",
+    "static/media/Group 1964.png": "/http//veilumuthuraja.github.io/samplereact/static/media/Group 1964.d3ba3849833e3a1be35e.png",
+    "static/media/Group 6.png": "/http//veilumuthuraja.github.io/samplereact/static/media/Group 6.611a73e1d90a30ba470d.png",
+    "static/media/Group 1955.png": "/http//veilumuthuraja.github.io/samplereact/static/media/Group 1955.1f978f19f88bf9933bb0.png",
+    "static/media/Group 1954.png": "/http//veilumuthuraja.github.io/samplereact/static/media/Group 1954.fff359aef913d7f04507.png",
+    "static/media/Group 1958 (1).png": "/http//veilumuthuraja.github.io/samplereact/static/media/Group 1958 (1).cb121b9796cf87dac927.png",
+    "static/media/Group 1959.png": "/http//veilumuthuraja.github.io/samplereact/static/media/Group 1959.9d6caab1cf0b540ad802.png",
+    "index.html": "/http//veilumuthuraja.github.io/samplereact/index.html",
+    "main.0ae37724.css.map": "/http//veilumuthuraja.github.io/samplereact/static/css/main.0ae37724.css.map",
+    "main.f0555a56.js.map": "/http//veilumuthuraja.github.io/samplereact/static/js/main.f0555a56.js.map",
+    "453.f07efbfc.chunk.js.map": "/http//veilumuthuraja.github.io/samplereact/static/js/453.f07efbfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae37724.css",
+    "static/js/main.f0555a56.js"
+  ]
+}
